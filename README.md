@@ -1,5 +1,5 @@
 # Sudoku Solver
 
-## 20233
+## 2023
 
 A simple sudoku solver using linear programming via cvxpy.
